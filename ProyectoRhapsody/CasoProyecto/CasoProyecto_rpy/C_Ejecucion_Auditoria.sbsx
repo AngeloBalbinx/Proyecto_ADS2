@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>65001</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 9001d1fe-0468-449f-ab11-8a9dd10cd048</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">C_Ejecucion_Auditoria</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\DesignProfile\DesignModel.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignModel</_hsubsystem>
+							<_hname type="a">SubSystem</_hname>
+							<_hid type="a">GUID 4aeb0f30-0482-4438-bfe1-f073de14968d</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.1.2021::6:43:35</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Control.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Control</_hsubsystem>
+					<_hname type="a">CapaControl</_hname>
+					<_hid type="a">GUID efac7b61-54ba-4d48-a353-51301d18f5dc</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.1.2021::6:43:35</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<weakCGTime type="a">7.1.2021::6:43:35</weakCGTime>
+			<strongCGTime type="a">7.1.2021::9:12:53</strongCGTime>
+			<_defaultComposite type="s">GUID bc3a55d6-d05f-44b3-9cd6-812452ba7b6e</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 199ab766-ea8a-4ee4-9f73-18599d4c109f</value>
+				<value>GUID e8c51eb2-43c8-4fb6-bdf4-ee8b43aef7c3</value>
+				<value>GUID 37de4e99-8e2d-4d26-9220-7998dd928d1b</value>
+				<value>GUID 3380b69c-02ed-44bb-a53c-84858d0aaed1</value>
+				<value>GUID bc3a55d6-d05f-44b3-9cd6-812452ba7b6e</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 199ab766-ea8a-4ee4-9f73-18599d4c109f</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">C_AuditorLider</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:39:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:39:54</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\C_AuditorLider.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Control</_hsubsystem>
+					<_hname type="a">C_AuditorLider</_hname>
+					<_hid type="a">GUID 7c1ab0f9-e674-4bee-a419-9a4bddfe8de3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 9001d1fe-0468-449f-ab11-8a9dd10cd048</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID e8c51eb2-43c8-4fb6-bdf4-ee8b43aef7c3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">C_Producto</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:39:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:39:56</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\C_Producto.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Control</_hsubsystem>
+					<_hname type="a">C_Producto</_hname>
+					<_hid type="a">GUID 475e2107-8931-4bd9-abb0-1dfbf896f5c4</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 9001d1fe-0468-449f-ab11-8a9dd10cd048</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 37de4e99-8e2d-4d26-9220-7998dd928d1b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">C_Responsable</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:39:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:39:59</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\C_Responsable.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Control</_hsubsystem>
+					<_hname type="a">C_Responsable</_hname>
+					<_hid type="a">GUID e43c6a43-a256-431e-9b17-d13a5449509a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 9001d1fe-0468-449f-ab11-8a9dd10cd048</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 3380b69c-02ed-44bb-a53c-84858d0aaed1</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">C_Auditor</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:43:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:43:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\C_Auditor.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Control</_hsubsystem>
+					<_hname type="a">C_Auditor</_hname>
+					<_hid type="a">GUID 0dd0378c-f711-4fbe-bed9-b3c3e0ed3440</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 9001d1fe-0468-449f-ab11-8a9dd10cd048</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID bc3a55d6-d05f-44b3-9cd6-812452ba7b6e</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>65001</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID e61c95cc-f8fa-4a06-bc3c-f21600765ef1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Actores</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:24:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:40:25</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">7.1.2021::6:24:39</weakCGTime>
+			<strongCGTime type="a">7.1.2021::6:12:7</strongCGTime>
+			<_defaultComposite type="s">GUID d78236ad-0725-4691-a9fd-8db186171d9d</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d05252b3-890d-440f-9b76-2b3901b5f25b</value>
+				<value>GUID d78236ad-0725-4691-a9fd-8db186171d9d</value>
+				<value>GUID ff498a4a-bf20-4203-b712-b6a20297fc99</value>
+				<value>GUID 6a975694-25ed-463a-bd5f-17fdb25c6536</value>
+				<value>GUID 3a527622-95e9-477f-87d8-aafa478880c2</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IUCDiagram type="e">
+			<_id type="a">GUID d05252b3-890d-440f-9b76-2b3901b5f25b</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">2</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Actor</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">7</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,53,142</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Association</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">4</size>
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">128,128,128</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Diagrama de Actores</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:27:4</_modifiedTime>
+			<_lastModifiedTime type="a">7.1.2021::6:27:4</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID e61c95cc-f8fa-4a06-bc3c-f21600765ef1</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID e552cd1a-99cf-4aa7-b7a1-61e9f0b16260</value>
+			</AggregatesList>
+		</IUCDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID e552cd1a-99cf-4aa7-b7a1-61e9f0b16260</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hid type="a">GUID d05252b3-890d-440f-9b76-2b3901b5f25b</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">4</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID f2d841a9-1f63-439d-8db4-7e6642138109</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID f2d841a9-1f63-439d-8db4-7e6642138109</value>
+				<value>GUID 83f3ac0e-753b-420e-9c08-fcbdf9451d78</value>
+				<value>GUID f1b32245-3935-4cbe-8400-470695b6d9bc</value>
+				<value>GUID bb42c48a-4468-499c-bc3d-8e794110d286</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIClass type="e">
+			<_id type="a">GUID f2d841a9-1f63-439d-8db4-7e6642138109</_id>
+			<m_type type="a">78</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID d78236ad-0725-4691-a9fd-8db186171d9d</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TopLevel</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+		</CGIClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID 83f3ac0e-753b-420e-9c08-fcbdf9451d78</_id>
+			<m_type type="a">124</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 6a975694-25ed-463a-bd5f-17fdb25c6536</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID f2d841a9-1f63-439d-8db4-7e6642138109</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">AnalistaSeguridad</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0489381 0 0 0.124343 344.387 56.6655 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 176 252  176 1394  1259 1394  1259 252  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID f1b32245-3935-4cbe-8400-470695b6d9bc</_id>
+			<m_type type="a">124</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID ff498a4a-bf20-4203-b712-b6a20297fc99</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID f2d841a9-1f63-439d-8db4-7e6642138109</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Oficial de SI</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0489381 0 0 0.124343 92.3869 56.6655 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 176 252  176 1394  1259 1394  1259 252  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<CGIBasicClass type="e">
+			<_id type="a">GUID bb42c48a-4468-499c-bc3d-8e794110d286</_id>
+			<m_type type="a">124</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 3a527622-95e9-477f-87d8-aafa478880c2</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID f2d841a9-1f63-439d-8db4-7e6642138109</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">RepresentanteMesa</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2056</m_drawBehavior>
+			<m_transform type="a">0.0489381 0 0 0.124343 222.387 56.6655 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 176 252  176 1394  1259 1394  1259 252  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBasicClass>
+		<IClass type="e">
+			<_id type="a">GUID d78236ad-0725-4691-a9fd-8db186171d9d</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IActor type="e">
+			<_id type="a">GUID ff498a4a-bf20-4203-b712-b6a20297fc99</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Oficial de SI</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:24:39</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hname type="a">DiagCUPqteGestionAC</_hname>
+					<_hid type="a">GUID 396888c9-f2be-465b-af55-8a969d2dad82</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.1.2021::6:24:39</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.1.2021::6:24:39</weakCGTime>
+			<strongCGTime type="a">7.1.2021::6:14:15</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 304b8228-c7ef-49b9-a109-9ad62f2c6e16</value>
+				<value>GUID e06c624c-28b6-49f8-8bda-302558dcd5a5</value>
+				<value>GUID 42d6558d-d6ab-402c-83a7-0e11cf5d979f</value>
+				<value>GUID 968ad926-d416-47b4-bf6e-f0bf149263fb</value>
+				<value>GUID 265c067e-6ee9-4cd1-b8f4-6667e5099d2f</value>
+				<value>GUID 3f75012c-e33a-4d89-9287-94f19b9a8d2b</value>
+				<value>GUID 59030505-1a4b-49a7-ac9b-7cc93adad0e5</value>
+				<value>GUID 0fa57451-4947-4244-805c-39a0cbe7d319</value>
+				<value>GUID 692bcbdb-76c2-447a-91ad-e29726df7d31</value>
+				<value>GUID a1fe06a5-9007-4317-ab20-7eb3a331bc3c</value>
+				<value>GUID 1437da22-9684-4b4d-bcef-30e460c7e3da</value>
+				<value>GUID baa6c97a-5570-40bf-b803-ff873ad1e8ea</value>
+				<value>GUID 9379c651-0d4f-43c5-9a6d-5f026c8aa045</value>
+				<value>GUID 9e6ba77b-cd74-4d94-a5c0-2592ebe7b4f4</value>
+				<value>GUID b97d6010-0376-436d-8a46-346d8d2c28ac</value>
+				<value>GUID 569c5188-a228-480c-8c8c-a62da4fbc3a9</value>
+				<value>GUID 5b78c1e1-b8d0-447e-a9e3-7d4bef9675c0</value>
+				<value>GUID 57ab2e94-f6eb-4c82-b911-8e910b9a5edc</value>
+				<value>GUID b1ce86c9-9eaa-406c-843e-a2709d8b4c4c</value>
+				<value>GUID d21b45c9-954a-46fe-90af-924b55251b99</value>
+				<value>GUID a0fe3e2a-d43a-4f8d-b22a-a66a8e5f820f</value>
+				<value>GUID 93594399-46ed-4a7e-b03c-dbfa15e30705</value>
+				<value>GUID fb1767da-3c4c-43b7-9439-00b6e6b01c9a</value>
+				<value>GUID 3d19b55c-3627-45bb-8d8a-70336dd078c9</value>
+				<value>GUID 2395b038-79c0-406e-b1f9-8765b80f9758</value>
+				<value>GUID 858df9c4-ea20-4d6e-ae92-8c1d87bae46e</value>
+				<value>GUID 365f0cfd-8626-4582-b234-0f3b3bd67cd7</value>
+				<value>GUID 334ca789-5918-41a3-b27b-42357fb015f9</value>
+				<value>GUID 26a91a54-e35d-4739-813c-4fe740b66b7e</value>
+			</AggregatesList>
+		</IActor>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 304b8228-c7ef-49b9-a109-9ad62f2c6e16</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">message_0</_name>
+			<_modifiedTimeWeak type="a">1.1.2021::5:42:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:42:47</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID e06c624c-28b6-49f8-8bda-302558dcd5a5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PresionaElBotonSalir</_name>
+			<_modifiedTimeWeak type="a">1.1.2021::6:13:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::6:13:59</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 42d6558d-d6ab-402c-83a7-0e11cf5d979f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRegistrar SAC</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:23:40</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hname type="a">Registrar SAC</_hname>
+					<_hid type="a">GUID 8da69396-5f06-4582-ac1c-381754bde011</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hclass type="a">Registrar SAC</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 6658ef4d-17c1-418e-b308-25bd916cc288</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 968ad926-d416-47b4-bf6e-f0bf149263fb</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRegistrar Solicitud de Acci%C3%B2n Correctiva y de Mejora</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:6:47</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hname type="a">Registrar Solicitud de Acci%C3%B2n Correctiva y de Mejora</_hname>
+					<_hid type="a">GUID 928d74dc-9754-411b-8f8e-02d53585834b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hclass type="a">Registrar Solicitud de Acci%C3%B2n Correctiva y de Mejora</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 7fe6327b-c34d-4015-a330-a1d76c3978ea</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 265c067e-6ee9-4cd1-b8f4-6667e5099d2f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsActualizar SAC</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:24:2</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hname type="a">Actualizar SAC</_hname>
+					<_hid type="a">GUID e47406cd-167b-427c-9b32-54cacb190fe8</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hclass type="a">Actualizar SAC</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID e0cfce90-368c-469f-8dfa-270d50e549c5</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 3f75012c-e33a-4d89-9287-94f19b9a8d2b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar informe de an%C3%A0lisis</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:6:40</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar informe de an%C3%A0lisis</_hname>
+					<_hid type="a">GUID e66f4628-9dfc-4e8e-9c2e-13eb6edf7248</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAccionesCorrectivasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAccionesCorrectivasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar informe de an%C3%A0lisis</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID a1cc4bb4-2c6b-40b6-83ab-77bf4e539519</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 59030505-1a4b-49a7-ac9b-7cc93adad0e5</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar POI</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:28:19</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar POI</_hname>
+					<_hid type="a">GUID f40d9f4a-1646-45d9-8f97-910259d5b09a</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar POI</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 1ebf7bfc-36a6-49dd-bcea-3eeab6ab7c2a</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0fa57451-4947-4244-805c-39a0cbe7d319</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar los TDR</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:28:23</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar los TDR</_hname>
+					<_hid type="a">GUID 34dd1cbd-9bab-425a-b62e-ba0791044680</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar los TDR</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 674dfe2c-9aa0-4cc8-9012-e547dee10659</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 692bcbdb-76c2-447a-91ad-e29726df7d31</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar expediente SMVVirtual</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:28:27</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar expediente SMVVirtual</_hname>
+					<_hid type="a">GUID 2862ea70-defa-49d3-9004-471d05333162</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar expediente SMVVirtual</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID e10f435f-f7ca-4983-b281-b0454149f0bc</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID a1fe06a5-9007-4317-ab20-7eb3a331bc3c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar POI_1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:3:15</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar POI</_hname>
+					<_hid type="a">GUID f40d9f4a-1646-45d9-8f97-910259d5b09a</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar POI</_hclass>
+					<_hname type="a">itsOficial de SI_1</_hname>
+					<_hid type="a">GUID 48f70114-a3ba-4035-a94f-1c4a25ad2bff</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1437da22-9684-4b4d-bcef-30e460c7e3da</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar POI_2</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:18:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar POI</_hname>
+					<_hid type="a">GUID f40d9f4a-1646-45d9-8f97-910259d5b09a</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar POI</_hclass>
+					<_hname type="a">itsOficial de SI_2</_hname>
+					<_hid type="a">GUID e5c40921-6a4f-4986-89bb-58553d32c84f</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID baa6c97a-5570-40bf-b803-ff873ad1e8ea</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar los TDR_1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:18:28</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar los TDR</_hname>
+					<_hid type="a">GUID 34dd1cbd-9bab-425a-b62e-ba0791044680</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar los TDR</_hclass>
+					<_hname type="a">itsOficial de SI_1</_hname>
+					<_hid type="a">GUID 62193002-d59a-43eb-9f4a-2f4af4242a4e</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 9379c651-0d4f-43c5-9a6d-5f026c8aa045</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar expediente SMVVirtual_1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:18:32</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar expediente SMVVirtual</_hname>
+					<_hid type="a">GUID 2862ea70-defa-49d3-9004-471d05333162</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar expediente SMVVirtual</_hclass>
+					<_hname type="a">itsOficial de SI_1</_hname>
+					<_hid type="a">GUID 5c0d3736-f818-4cf4-a45e-025e7087bbac</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 9e6ba77b-cd74-4d94-a5c0-2592ebe7b4f4</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar POI_3</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:7:26</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar POI</_hname>
+					<_hid type="a">GUID f40d9f4a-1646-45d9-8f97-910259d5b09a</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar POI</_hclass>
+					<_hname type="a">itsOficial de SI_3</_hname>
+					<_hid type="a">GUID 7c67feed-e574-46fc-8472-0e5771f925e7</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID b97d6010-0376-436d-8a46-346d8d2c28ac</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar los TDR_2</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:7:30</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar los TDR</_hname>
+					<_hid type="a">GUID 34dd1cbd-9bab-425a-b62e-ba0791044680</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar los TDR</_hclass>
+					<_hname type="a">itsOficial de SI_2</_hname>
+					<_hid type="a">GUID d9e2f2dd-67b1-4e08-9f0c-22864194529e</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 569c5188-a228-480c-8c8c-a62da4fbc3a9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar expediente SMVVirtual_2</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:7:34</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar expediente SMVVirtual</_hname>
+					<_hid type="a">GUID 2862ea70-defa-49d3-9004-471d05333162</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar expediente SMVVirtual</_hclass>
+					<_hname type="a">itsOficial de SI_2</_hname>
+					<_hid type="a">GUID ec12473c-830c-4b95-9860-9d05fc1b479b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5b78c1e1-b8d0-447e-a9e3-7d4bef9675c0</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_RegistrarSAC</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::3:30:32</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_RegistrarSAC.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::SAC::RA_RegistrarSAC</_hsubsystem>
+					<_hname type="a">CI_RegistrarSAC</_hname>
+					<_hid type="a">GUID 79ee030f-1c3c-4708-841f-c2f7bcd86155</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_RegistrarSAC.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::SAC::RA_RegistrarSAC</_hsubsystem>
+					<_hclass type="a">CI_RegistrarSAC</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID e09e2eea-961e-41bf-93af-75269c907c8d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 57ab2e94-f6eb-4c82-b911-8e910b9a5edc</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MenuP</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::3:30:39</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hname type="a">CI_MenuP</_hname>
+					<_hid type="a">GUID b45d316f-f443-4df4-82e0-feccbfe1cd6a</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hclass type="a">CI_MenuP</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 2c4fbc36-2dec-41e5-a433-9c34c968c1e9</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID b1ce86c9-9eaa-406c-843e-a2709d8b4c4c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_ActualizarSAC</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:8:56</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_ActualizarSAC.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::SAC::RA_ActualizarSAC</_hsubsystem>
+					<_hname type="a">CI_ActualizarSAC</_hname>
+					<_hid type="a">GUID 7103721b-8710-4d4d-8ae2-a519d1881426</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_ActualizarSAC.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::SAC::RA_ActualizarSAC</_hsubsystem>
+					<_hclass type="a">CI_ActualizarSAC</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID d09368c0-8714-4069-8c3c-82af3ad18185</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d21b45c9-954a-46fe-90af-924b55251b99</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GenerarPOI</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:47:57</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarPOI.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::PlanOperativoInstitucional::RA_GenerarPOI</_hsubsystem>
+					<_hname type="a">CI_GenerarPOI</_hname>
+					<_hid type="a">GUID fbd7c55d-a398-43b6-bb03-c0e6cbd0f64f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarPOI.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::PlanOperativoInstitucional::RA_GenerarPOI</_hsubsystem>
+					<_hclass type="a">CI_GenerarPOI</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID b473e099-3fb9-48d3-a326-d2a7d4c678c9</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID a0fe3e2a-d43a-4f8d-b22a-a66a8e5f820f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MenuP_2</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:22:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hname type="a">CI_MenuP</_hname>
+					<_hid type="a">GUID 2b0c0b9c-2297-4546-b6eb-ae0169c0e31d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hclass type="a">CI_MenuP</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID dc56d557-029e-49cc-9316-b84ed7cb23dd</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 93594399-46ed-4a7e-b03c-dbfa15e30705</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GenerarTDR</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:22:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hname type="a">CI_GenerarTDR</_hname>
+					<_hid type="a">GUID a8bbc7cb-dee6-436b-8304-f2e6df962546</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hclass type="a">CI_GenerarTDR</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 2680dce3-45f6-432c-ac6e-c60451d3dedc</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID fb1767da-3c4c-43b7-9439-00b6e6b01c9a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_BuscarAuditor</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:22:10</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hname type="a">CI_BuscarAuditor</_hname>
+					<_hid type="a">GUID 7f640ff8-1c84-43a0-a4c5-c4ca94b21283</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hclass type="a">CI_BuscarAuditor</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 9e4eb8e5-3aac-4ca0-8c98-d57849c0dd3a</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 3d19b55c-3627-45bb-8d8a-70336dd078c9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_BuscarAuditorLider</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:22:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hname type="a">CI_BuscarAuditorLider</_hname>
+					<_hid type="a">GUID a648e197-479c-4799-9b0b-6c5847754a55</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Generar_TDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Ejecucion_Auditoria::TDR::Generar_TDR</_hsubsystem>
+					<_hclass type="a">CI_BuscarAuditorLider</_hclass>
+					<_hname type="a">itsOficial de SI</_hname>
+					<_hid type="a">GUID 948dee8e-94db-4ab0-ae3a-54efef1f54f3</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2395b038-79c0-406e-b1f9-8765b80f9758</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsFormActualizarSac</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:12:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:12:21</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\VistaSAC.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Vista::VistaSAC</_hsubsystem>
+					<_hname type="a">formActualizarSac</_hname>
+					<_hid type="a">GUID bf9acbef-d248-4f14-b24c-275cbd468f58</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 858df9c4-ea20-4d6e-ae92-8c1d87bae46e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuP_jspClient</_name>
+			<_modifiedTimeWeak type="a">1.1.2021::5:23:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:23:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\GUIComun.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Vista::GUIComun</_hsubsystem>
+					<_hname type="a">MenuP_jspClient</_hname>
+					<_hid type="a">GUID 59ce2d06-05a7-4687-9ecd-1bec9ac20a33</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 365f0cfd-8626-4582-b234-0f3b3bd67cd7</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsFormGenerarTDR</_name>
+			<_modifiedTimeWeak type="a">1.1.2021::5:23:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:23:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\VistaTDR.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Vista::VistaTDR</_hsubsystem>
+					<_hname type="a">formGenerarTDR</_hname>
+					<_hid type="a">GUID f6e1302d-4bbb-4677-901f-357fddc4e1a1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 334ca789-5918-41a3-b27b-42357fb015f9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsForm_GenerarPoi</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::18:19:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::18:19:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\VistaPOI.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Vista::VistaPOI</_hsubsystem>
+					<_hname type="a">Form_GenerarPoi</_hname>
+					<_hid type="a">GUID 5dd2ce03-0df7-4b7c-a7b8-b72ff54e6d34</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 26a91a54-e35d-4739-813c-4fe740b66b7e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsFormRegistrarSac</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::3:38:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::3:38:37</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\VistaSAC.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Vista::VistaSAC</_hsubsystem>
+					<_hname type="a">formRegistrarSac</_hname>
+					<_hid type="a">GUID 3dbe68a6-d779-440d-8106-c1330f6da630</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IActor type="e">
+			<_id type="a">GUID 6a975694-25ed-463a-bd5f-17fdb25c6536</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">AnalistaSeguridad</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:15:7</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">DiagCUPqteGestionAI</_hname>
+					<_hid type="a">GUID 2b1c633b-2ea3-46e5-be31-9c22a1ac243f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.1.2021::6:15:7</_modifiedTime>
+			<weakCGTime type="a">7.1.2021::6:15:7</weakCGTime>
+			<strongCGTime type="a">7.1.2021::6:16:45</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID b7c4e6a2-5cbd-4187-ac98-1aef5dd4e9e3</value>
+				<value>GUID 4947a060-6a35-4869-ade8-535c6bd10d7e</value>
+				<value>GUID c87d8167-b8fc-46cc-942c-ec90d8d22558</value>
+				<value>GUID d4956b36-d9c3-46cc-908c-c89e9f407606</value>
+				<value>GUID dff46317-48f9-4a75-8d98-1a89ebb593e8</value>
+				<value>GUID e08a9ace-7224-4a92-a5fd-3f10c2951c57</value>
+				<value>GUID 6afa378c-75b7-49f8-9eaf-62470df47a7a</value>
+				<value>GUID f21974d8-835c-4ffc-ba57-8af4694e07bf</value>
+				<value>GUID 15c18e6e-3f99-4534-a20b-71b3724a197d</value>
+				<value>GUID b53b2ee7-c2e2-4bfe-8394-bf4f5c3d6d90</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID b7c4e6a2-5cbd-4187-ac98-1aef5dd4e9e3</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar reserva de salas y convocatorias</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:5:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Generar reserva de salas y convocatorias</_hname>
+					<_hid type="a">GUID 617743b5-00cf-4a0f-b6b7-e17099703779</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Generar reserva de salas y convocatorias</_hclass>
+					<_hname type="a">itsAnalistaSeguridad</_hname>
+					<_hid type="a">GUID b9dc42eb-b68d-4213-ae37-11ea37814e42</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4947a060-6a35-4869-ade8-535c6bd10d7e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MenuP</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:34:42</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hname type="a">CI_MenuP</_hname>
+					<_hid type="a">GUID b45d316f-f443-4df4-82e0-feccbfe1cd6a</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hclass type="a">CI_MenuP</_hclass>
+					<_hname type="a">itsAnalistaSeguridad</_hname>
+					<_hid type="a">GUID adb91def-6c1e-4123-9862-a5ac9f51b18d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c87d8167-b8fc-46cc-942c-ec90d8d22558</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GenerarReserva</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:34:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hname type="a">CI_GenerarReserva</_hname>
+					<_hid type="a">GUID 53fddaa6-312a-42da-afae-119d29f77063</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hclass type="a">CI_GenerarReserva</_hclass>
+					<_hname type="a">itsAnalistaSeguridad</_hname>
+					<_hid type="a">GUID 2488c7ee-11f1-4a2f-9856-53165f8e4a85</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d4956b36-d9c3-46cc-908c-c89e9f407606</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_BuscarSala</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:34:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hname type="a">CI_BuscarSala</_hname>
+					<_hid type="a">GUID 1b1b50f8-a5ab-46d7-bb3b-1fcdd2be1823</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hclass type="a">CI_BuscarSala</_hclass>
+					<_hname type="a">itsAnalistaSeguridad</_hname>
+					<_hid type="a">GUID e17a965f-1b95-4035-a462-88ebb646a3a9</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID dff46317-48f9-4a75-8d98-1a89ebb593e8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_BuscarConvocatoria</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::7:34:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hname type="a">CI_BuscarConvocatoria</_hname>
+					<_hid type="a">GUID 6bc85347-40a9-4cb5-ad3e-9b18d899cd42</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hclass type="a">CI_BuscarConvocatoria</_hclass>
+					<_hname type="a">itsAnalistaSeguridad</_hname>
+					<_hid type="a">GUID 22588362-2040-4356-a5c6-d84027a35eb4</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e08a9ace-7224-4a92-a5fd-3f10c2951c57</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_ConsultarConvocatoria</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::5:9:44</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_ConsultarConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Convocatoria::RA_ConsultarConvocatorias</_hsubsystem>
+					<_hname type="a">CI_ConsultarConvocatoria</_hname>
+					<_hid type="a">GUID 001f251e-fc65-4f52-9c2f-a6dda851c499</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_ConsultarConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Convocatoria::RA_ConsultarConvocatorias</_hsubsystem>
+					<_hclass type="a">CI_ConsultarConvocatoria</_hclass>
+					<_hname type="a">itsAnalistaSeguridad</_hname>
+					<_hid type="a">GUID b4a47ea8-3a9d-4583-853f-86b3cac349aa</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6afa378c-75b7-49f8-9eaf-62470df47a7a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_ConsultarSalas</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:19:27</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_ConsultarSalas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Sala::RA_ConsultarSalas</_hsubsystem>
+					<_hname type="a">CI_ConsultarSalas</_hname>
+					<_hid type="a">GUID 1397149c-370b-4807-87b3-f2d011e05bca</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_ConsultarSalas.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Sala::RA_ConsultarSalas</_hsubsystem>
+					<_hclass type="a">CI_ConsultarSalas</_hclass>
+					<_hname type="a">itsAnalistaSeguridad</_hname>
+					<_hid type="a">GUID d596c02c-55f5-48ba-a39f-fb94cc1e2c9e</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f21974d8-835c-4ffc-ba57-8af4694e07bf</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_GenerarReserva_1</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::5:19:32</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hname type="a">CI_GenerarReserva</_hname>
+					<_hid type="a">GUID 53fddaa6-312a-42da-afae-119d29f77063</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_GenerarReservaSalasyConvocatorias.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Reserva::RA_GenerarReservaSalasyConvocatorias</_hsubsystem>
+					<_hclass type="a">CI_GenerarReserva</_hclass>
+					<_hname type="a">itsAnalistaSeguridad_1</_hname>
+					<_hid type="a">GUID 4381c24b-d7dd-4c68-90a9-6c95b286449b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 15c18e6e-3f99-4534-a20b-71b3724a197d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsFormGenerarReserva</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::19:2:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::10:3:35</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\VistaReserva.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Vista::VistaReserva</_hsubsystem>
+					<_hname type="a">formGenerarReserva</_hname>
+					<_hid type="a">GUID e11c4b7d-ef89-4f39-9810-4bdef87baa90</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID b53b2ee7-c2e2-4bfe-8394-bf4f5c3d6d90</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuP_jspClient</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:15:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:15:7</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\GUIComun.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::Capas::Vista::GUIComun</_hsubsystem>
+					<_hname type="a">MenuP_jspClient</_hname>
+					<_hid type="a">GUID 59ce2d06-05a7-4687-9ecd-1bec9ac20a33</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IActor type="e">
+			<_id type="a">GUID 3a527622-95e9-477f-87d8-aafa478880c2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RepresentanteMesa</_name>
+			<_modifiedTimeWeak type="a">7.1.2021::6:28:45</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">DiagCUPqteGestionAI</_hname>
+					<_hid type="a">GUID 2b1c633b-2ea3-46e5-be31-9c22a1ac243f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.1.2021::6:28:45</_modifiedTime>
+			<weakCGTime type="a">7.1.2021::6:28:45</weakCGTime>
+			<strongCGTime type="a">7.1.2021::6:16:53</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID f928d799-15d5-42b5-b1b7-7be367cef483</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f928d799-15d5-42b5-b1b7-7be367cef483</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsReportar los recursos a ser usados</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.1.2021::6:28:51</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hname type="a">Reportar los recursos a ser usados</_hname>
+					<_hid type="a">GUID 9b7eb029-5d56-4a3d-b920-ab3414ac9c23</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\GestionDeAuditoriasInternasDelSGSI.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::CasosDeUso::GestionDeAuditoriasInternasDelSGSI</_hsubsystem>
+					<_hclass type="a">Reportar los recursos a ser usados</_hclass>
+					<_hname type="a">itsRepresentanteMesa</_hname>
+					<_hid type="a">GUID aa71fce3-e587-4e2b-8d98-60030298be5e</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
